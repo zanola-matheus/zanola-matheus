@@ -1,4 +1,4 @@
-# Hey, I'm Matheus (Mat) 👋
+# Hey, I'm Matheus 👋
 
 Full-stack developer building SaaS products. Based in the UK.
 
@@ -21,7 +21,7 @@ Analytics for Shopify merchants: revenue, orders, AOV, LTV, returns, and custome
 ## Background
 
 - 🎓 Electrical Engineering degree — PUC Minas, Brazil
-- 🏎️ 10 years in powertrain test automation (AVL, PUMA, TAG320)
+- 🏎️ 10 years in powertrain test automation (Stellantis, UTAC and RedbBull Racing)
 - 🛠️ Led automation teams and complex technical infrastructure at scale
 - 🌍 Brazilian · Italian citizenship · UK settled status
 
@@ -31,3 +31,4 @@ Analytics for Shopify merchants: revenue, orders, AOV, LTV, returns, and custome
 
 - 🔗 [linkedin.com/in/matheus-zanola](https://linkedin.com/in/matheus-zanola)
 - 🌐 [sub-signal.com](https://sub-signal.com)
+- 🌐 [GrowthRadar](https://apps.shopify.com/growth-radar)
